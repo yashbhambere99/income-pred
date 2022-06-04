@@ -1,0 +1,312 @@
+02-12-2021 22:48:38,INFO,Requested method : POST
+02-12-2021 22:48:38,INFO,form submitted, there is an active request and the method is POST
+02-12-2021 22:48:38,INFO,Values retrieved from the form
+02-12-2021 22:48:38,INFO,Threading Called !
+02-12-2021 22:48:38,INFO,Threading Created !
+02-12-2021 22:48:38,INFO,Threading Started !
+02-12-2021 22:48:38,INFO,Preprocessing files successfully loaded
+02-12-2021 22:48:38,INFO,Data was PreProcessed successfully
+02-12-2021 22:48:48,INFO,Successfully connected to Database
+02-12-2021 22:48:49,INFO,The Table already exists
+02-12-2021 22:48:49,INFO,User Data inserted 
+02-12-2021 22:48:49,INFO,Data 
+02-12-2021 22:48:49,INFO,Threading join !
+02-12-2021 22:48:49,INFO,XGB model successfully loaded!
+02-12-2021 22:48:49,INFO,Model prediction completed
+02-12-2021 22:48:50,INFO,Result added successfully
+02-12-2021 22:48:50,INFO,Uploaded to Database
+02-06-2022 18:19:14,INFO,Requested method : POST
+02-06-2022 18:19:14,INFO,form submitted, there is an active request and the method is POST
+02-06-2022 18:19:14,INFO,Values retrieved from the form
+02-06-2022 18:19:14,INFO,Threading Called !
+02-06-2022 18:19:14,INFO,Threading Created !
+02-06-2022 18:19:14,INFO,Threading Started !
+02-06-2022 18:19:20,INFO,Preprocessing files successfully loaded
+02-06-2022 18:19:20,ERROR,While Preprocessing
+02-06-2022 18:19:21,ERROR,While connecting to the Database
+02-06-2022 18:19:21,INFO,The Table already exists
+02-06-2022 18:19:21,ERROR,While adding the data to database
+02-06-2022 18:19:21,INFO,Data 
+02-06-2022 18:19:21,INFO,Threading join !
+02-06-2022 18:19:36,INFO,Requested method : POST
+02-06-2022 18:19:36,INFO,form submitted, there is an active request and the method is POST
+02-06-2022 18:19:36,INFO,Values retrieved from the form
+02-06-2022 18:19:36,INFO,Threading Called !
+02-06-2022 18:19:36,INFO,Threading Created !
+02-06-2022 18:19:36,INFO,Threading Started !
+02-06-2022 18:19:36,INFO,Preprocessing files successfully loaded
+02-06-2022 18:19:36,ERROR,While Preprocessing
+02-06-2022 18:19:37,INFO,XGB model successfully loaded!
+02-06-2022 18:19:37,ERROR,While Prediction
+02-06-2022 18:19:37,ERROR,While connecting to the Database
+02-06-2022 18:19:37,INFO,The Table already exists
+02-06-2022 18:19:37,ERROR,While adding the data to database
+02-06-2022 18:19:37,INFO,Data 
+02-06-2022 18:19:37,INFO,Threading join !
+02-06-2022 18:19:37,INFO,XGB model successfully loaded!
+02-06-2022 18:19:37,ERROR,While Prediction
+02-06-2022 18:19:40,INFO,Requested method : POST
+02-06-2022 18:19:40,INFO,form submitted, there is an active request and the method is POST
+02-06-2022 18:19:40,INFO,Values retrieved from the form
+02-06-2022 18:19:40,INFO,Threading Called !
+02-06-2022 18:19:40,INFO,Threading Created !
+02-06-2022 18:19:40,INFO,Threading Started !
+02-06-2022 18:19:40,INFO,Preprocessing files successfully loaded
+02-06-2022 18:19:40,ERROR,While Preprocessing
+02-06-2022 18:19:41,ERROR,While connecting to the Database
+02-06-2022 18:19:41,INFO,The Table already exists
+02-06-2022 18:19:41,ERROR,While adding the data to database
+02-06-2022 18:19:41,INFO,Data 
+02-06-2022 18:19:41,INFO,Threading join !
+02-06-2022 18:19:41,INFO,XGB model successfully loaded!
+02-06-2022 18:19:41,ERROR,While Prediction
+02-06-2022 19:12:24,INFO,Requested method : POST
+02-06-2022 19:12:24,INFO,form submitted, there is an active request and the method is POST
+02-06-2022 19:12:24,INFO,Values retrieved from the form
+02-06-2022 19:12:24,INFO,Threading Called !
+02-06-2022 19:12:24,INFO,Threading Created !
+02-06-2022 19:12:24,INFO,Threading Started !
+02-06-2022 19:12:24,INFO,Preprocessing files successfully loaded
+02-06-2022 19:12:24,ERROR,While Preprocessing
+02-06-2022 19:12:26,INFO,Requested method : POST
+02-06-2022 19:12:26,INFO,form submitted, there is an active request and the method is POST
+02-06-2022 19:12:26,INFO,Values retrieved from the form
+02-06-2022 19:12:26,INFO,Threading Called !
+02-06-2022 19:12:26,INFO,Threading Created !
+02-06-2022 19:12:26,INFO,Threading Started !
+02-06-2022 19:12:26,INFO,Preprocessing files successfully loaded
+02-06-2022 19:12:26,ERROR,While Preprocessing
+02-06-2022 19:12:26,INFO,Requested method : POST
+02-06-2022 19:12:26,INFO,form submitted, there is an active request and the method is POST
+02-06-2022 19:12:26,INFO,Values retrieved from the form
+02-06-2022 19:12:26,INFO,Threading Called !
+02-06-2022 19:12:26,INFO,Threading Created !
+02-06-2022 19:12:26,INFO,Threading Started !
+02-06-2022 19:12:26,INFO,Preprocessing files successfully loaded
+02-06-2022 19:12:26,ERROR,While Preprocessing
+02-06-2022 19:12:27,ERROR,While connecting to the Database
+02-06-2022 19:12:27,INFO,The Table already exists
+02-06-2022 19:12:27,ERROR,While adding the data to database
+02-06-2022 19:12:27,INFO,Data 
+02-06-2022 19:12:27,INFO,Threading join !
+02-06-2022 19:12:27,INFO,Requested method : POST
+02-06-2022 19:12:27,INFO,form submitted, there is an active request and the method is POST
+02-06-2022 19:12:27,INFO,Values retrieved from the form
+02-06-2022 19:12:27,INFO,Threading Called !
+02-06-2022 19:12:27,INFO,Threading Created !
+02-06-2022 19:12:27,INFO,Threading Started !
+02-06-2022 19:12:27,INFO,Preprocessing files successfully loaded
+02-06-2022 19:12:27,ERROR,While Preprocessing
+02-06-2022 19:12:27,INFO,XGB model successfully loaded!
+02-06-2022 19:12:27,ERROR,While Prediction
+02-06-2022 19:12:28,INFO,Requested method : POST
+02-06-2022 19:12:28,INFO,form submitted, there is an active request and the method is POST
+02-06-2022 19:12:28,INFO,Values retrieved from the form
+02-06-2022 19:12:28,INFO,Threading Called !
+02-06-2022 19:12:28,INFO,Threading Created !
+02-06-2022 19:12:28,INFO,Threading Started !
+02-06-2022 19:12:28,INFO,Preprocessing files successfully loaded
+02-06-2022 19:12:28,ERROR,While Preprocessing
+02-06-2022 19:12:28,INFO,Requested method : POST
+02-06-2022 19:12:28,INFO,form submitted, there is an active request and the method is POST
+02-06-2022 19:12:28,INFO,Values retrieved from the form
+02-06-2022 19:12:28,INFO,Threading Called !
+02-06-2022 19:12:28,INFO,Threading Created !
+02-06-2022 19:12:28,INFO,Threading Started !
+02-06-2022 19:12:28,INFO,Preprocessing files successfully loaded
+02-06-2022 19:12:28,ERROR,While Preprocessing
+02-06-2022 19:12:28,ERROR,While connecting to the Database
+02-06-2022 19:12:28,INFO,The Table already exists
+02-06-2022 19:12:28,ERROR,While adding the data to database
+02-06-2022 19:12:28,INFO,Data 
+02-06-2022 19:12:28,INFO,Threading join !
+02-06-2022 19:12:28,INFO,XGB model successfully loaded!
+02-06-2022 19:12:28,ERROR,While Prediction
+02-06-2022 19:12:28,ERROR,While connecting to the Database
+02-06-2022 19:12:28,INFO,The Table already exists
+02-06-2022 19:12:28,ERROR,While adding the data to database
+02-06-2022 19:12:28,INFO,Data 
+02-06-2022 19:12:28,INFO,Threading join !
+02-06-2022 19:12:28,INFO,XGB model successfully loaded!
+02-06-2022 19:12:28,ERROR,While Prediction
+02-06-2022 19:12:29,ERROR,While connecting to the Database
+02-06-2022 19:12:29,INFO,The Table already exists
+02-06-2022 19:12:29,ERROR,While adding the data to database
+02-06-2022 19:12:29,INFO,Data 
+02-06-2022 19:12:29,INFO,Threading join !
+02-06-2022 19:12:29,INFO,XGB model successfully loaded!
+02-06-2022 19:12:29,ERROR,While Prediction
+02-06-2022 19:12:29,ERROR,While connecting to the Database
+02-06-2022 19:12:29,INFO,The Table already exists
+02-06-2022 19:12:29,ERROR,While adding the data to database
+02-06-2022 19:12:29,INFO,Data 
+02-06-2022 19:12:29,INFO,Threading join !
+02-06-2022 19:12:29,INFO,XGB model successfully loaded!
+02-06-2022 19:12:29,ERROR,While Prediction
+02-06-2022 19:12:29,ERROR,While connecting to the Database
+02-06-2022 19:12:29,INFO,The Table already exists
+02-06-2022 19:12:29,ERROR,While adding the data to database
+02-06-2022 19:12:29,INFO,Data 
+02-06-2022 19:12:29,INFO,Threading join !
+02-06-2022 19:12:29,INFO,XGB model successfully loaded!
+02-06-2022 19:12:29,ERROR,While Prediction
+02-06-2022 19:12:30,INFO,Requested method : POST
+02-06-2022 19:12:30,INFO,form submitted, there is an active request and the method is POST
+02-06-2022 19:12:30,INFO,Values retrieved from the form
+02-06-2022 19:12:30,INFO,Threading Called !
+02-06-2022 19:12:30,INFO,Threading Created !
+02-06-2022 19:12:30,INFO,Threading Started !
+02-06-2022 19:12:30,INFO,Preprocessing files successfully loaded
+02-06-2022 19:12:30,ERROR,While Preprocessing
+02-06-2022 19:12:31,ERROR,While connecting to the Database
+02-06-2022 19:12:31,INFO,The Table already exists
+02-06-2022 19:12:31,ERROR,While adding the data to database
+02-06-2022 19:12:31,INFO,Data 
+02-06-2022 19:12:31,INFO,Threading join !
+02-06-2022 19:12:31,INFO,XGB model successfully loaded!
+02-06-2022 19:12:31,ERROR,While Prediction
+02-06-2022 19:12:33,INFO,Requested method : POST
+02-06-2022 19:12:33,INFO,form submitted, there is an active request and the method is POST
+02-06-2022 19:12:33,INFO,Values retrieved from the form
+02-06-2022 19:12:33,INFO,Threading Called !
+02-06-2022 19:12:33,INFO,Threading Created !
+02-06-2022 19:12:33,INFO,Threading Started !
+02-06-2022 19:12:33,INFO,Preprocessing files successfully loaded
+02-06-2022 19:12:33,ERROR,While Preprocessing
+02-06-2022 19:12:34,ERROR,While connecting to the Database
+02-06-2022 19:12:34,INFO,The Table already exists
+02-06-2022 19:12:34,ERROR,While adding the data to database
+02-06-2022 19:12:34,INFO,Data 
+02-06-2022 19:12:34,INFO,Threading join !
+02-06-2022 19:12:34,INFO,XGB model successfully loaded!
+02-06-2022 19:12:34,ERROR,While Prediction
+02-06-2022 19:19:20,INFO,Requested method : POST
+02-06-2022 19:19:20,INFO,form submitted, there is an active request and the method is POST
+02-06-2022 19:19:20,INFO,Values retrieved from the form
+02-06-2022 19:19:20,INFO,Threading Called !
+02-06-2022 19:19:20,INFO,Threading Created !
+02-06-2022 19:19:20,INFO,Threading Started !
+02-06-2022 19:19:20,INFO,Preprocessing files successfully loaded
+02-06-2022 19:19:20,ERROR,While Preprocessing
+02-06-2022 19:19:21,INFO,Requested method : POST
+02-06-2022 19:19:21,INFO,form submitted, there is an active request and the method is POST
+02-06-2022 19:19:21,INFO,Values retrieved from the form
+02-06-2022 19:19:21,INFO,Threading Called !
+02-06-2022 19:19:21,INFO,Threading Created !
+02-06-2022 19:19:21,INFO,Threading Started !
+02-06-2022 19:19:21,INFO,Preprocessing files successfully loaded
+02-06-2022 19:19:21,ERROR,While Preprocessing
+02-06-2022 19:19:21,INFO,Requested method : POST
+02-06-2022 19:19:21,INFO,form submitted, there is an active request and the method is POST
+02-06-2022 19:19:21,INFO,Values retrieved from the form
+02-06-2022 19:19:21,INFO,Threading Called !
+02-06-2022 19:19:21,INFO,Threading Created !
+02-06-2022 19:19:21,INFO,Threading Started !
+02-06-2022 19:19:21,INFO,Preprocessing files successfully loaded
+02-06-2022 19:19:21,ERROR,While Preprocessing
+02-06-2022 19:19:21,ERROR,While connecting to the Database
+02-06-2022 19:19:21,INFO,The Table already exists
+02-06-2022 19:19:21,ERROR,While adding the data to database
+02-06-2022 19:19:21,INFO,Data 
+02-06-2022 19:19:21,INFO,Threading join !
+02-06-2022 19:19:21,INFO,XGB model successfully loaded!
+02-06-2022 19:19:21,ERROR,While Prediction
+02-06-2022 19:19:22,ERROR,While connecting to the Database
+02-06-2022 19:19:22,INFO,The Table already exists
+02-06-2022 19:19:22,ERROR,While adding the data to database
+02-06-2022 19:19:22,INFO,Data 
+02-06-2022 19:19:22,INFO,Threading join !
+02-06-2022 19:19:22,INFO,XGB model successfully loaded!
+02-06-2022 19:19:22,ERROR,While Prediction
+02-06-2022 19:19:22,ERROR,While connecting to the Database
+02-06-2022 19:19:22,INFO,The Table already exists
+02-06-2022 19:19:22,ERROR,While adding the data to database
+02-06-2022 19:19:22,INFO,Data 
+02-06-2022 19:19:22,INFO,Threading join !
+02-06-2022 19:19:22,INFO,XGB model successfully loaded!
+02-06-2022 19:19:22,ERROR,While Prediction
+02-06-2022 19:21:31,INFO,Requested method : POST
+02-06-2022 19:21:31,INFO,form submitted, there is an active request and the method is POST
+02-06-2022 19:21:31,INFO,Values retrieved from the form
+02-06-2022 19:21:31,INFO,Threading Called !
+02-06-2022 19:21:31,INFO,Threading Created !
+02-06-2022 19:21:32,INFO,Threading Started !
+02-06-2022 19:21:32,INFO,Preprocessing files successfully loaded
+02-06-2022 19:21:32,ERROR,While Preprocessing
+02-06-2022 19:21:33,ERROR,While connecting to the Database
+02-06-2022 19:21:33,INFO,The Table already exists
+02-06-2022 19:21:33,ERROR,While adding the data to database
+02-06-2022 19:21:33,INFO,Data 
+02-06-2022 19:21:33,INFO,Threading join !
+02-06-2022 19:21:33,INFO,XGB model successfully loaded!
+02-06-2022 19:21:33,ERROR,While Prediction
+02-06-2022 19:21:34,INFO,Requested method : POST
+02-06-2022 19:21:34,INFO,form submitted, there is an active request and the method is POST
+02-06-2022 19:21:34,INFO,Values retrieved from the form
+02-06-2022 19:21:34,INFO,Threading Called !
+02-06-2022 19:21:34,INFO,Threading Created !
+02-06-2022 19:21:34,INFO,Threading Started !
+02-06-2022 19:21:34,INFO,Preprocessing files successfully loaded
+02-06-2022 19:21:34,ERROR,While Preprocessing
+02-06-2022 19:21:35,INFO,Requested method : POST
+02-06-2022 19:21:35,INFO,form submitted, there is an active request and the method is POST
+02-06-2022 19:21:35,INFO,Values retrieved from the form
+02-06-2022 19:21:35,INFO,Threading Called !
+02-06-2022 19:21:35,INFO,Threading Created !
+02-06-2022 19:21:35,INFO,Threading Started !
+02-06-2022 19:21:35,INFO,Preprocessing files successfully loaded
+02-06-2022 19:21:35,ERROR,While Preprocessing
+02-06-2022 19:21:35,ERROR,While connecting to the Database
+02-06-2022 19:21:35,INFO,The Table already exists
+02-06-2022 19:21:35,ERROR,While adding the data to database
+02-06-2022 19:21:35,INFO,Data 
+02-06-2022 19:21:35,INFO,Threading join !
+02-06-2022 19:21:35,INFO,XGB model successfully loaded!
+02-06-2022 19:21:35,ERROR,While Prediction
+02-06-2022 19:21:36,ERROR,While connecting to the Database
+02-06-2022 19:21:36,INFO,The Table already exists
+02-06-2022 19:21:36,ERROR,While adding the data to database
+02-06-2022 19:21:36,INFO,Data 
+02-06-2022 19:21:36,INFO,Threading join !
+02-06-2022 19:21:36,INFO,XGB model successfully loaded!
+02-06-2022 19:21:36,ERROR,While Prediction
+03-06-2022 15:04:30,INFO,Requested method : POST
+03-06-2022 15:04:30,INFO,form submitted, there is an active request and the method is POST
+03-06-2022 15:04:30,INFO,Values retrieved from the form
+03-06-2022 15:04:30,INFO,Threading Called !
+03-06-2022 15:04:30,INFO,Threading Created !
+03-06-2022 15:04:30,INFO,Threading Started !
+03-06-2022 15:04:30,INFO,Threading join !
+03-06-2022 15:04:30,ERROR,While executing getResult()
+03-06-2022 15:04:38,INFO,Requested method : POST
+03-06-2022 15:04:38,INFO,form submitted, there is an active request and the method is POST
+03-06-2022 15:04:38,INFO,Values retrieved from the form
+03-06-2022 15:04:38,INFO,Threading Called !
+03-06-2022 15:04:38,INFO,Threading Created !
+03-06-2022 15:04:38,INFO,Threading Started !
+03-06-2022 15:04:38,INFO,Threading join !
+03-06-2022 15:04:38,ERROR,While executing getResult()
+03-06-2022 15:05:17,INFO,Requested method : POST
+03-06-2022 15:05:17,INFO,form submitted, there is an active request and the method is POST
+03-06-2022 15:05:17,INFO,Values retrieved from the form
+03-06-2022 15:05:17,INFO,Threading Called !
+03-06-2022 15:05:17,INFO,Threading Created !
+03-06-2022 15:05:17,INFO,Threading Started !
+03-06-2022 15:05:17,INFO,Threading join !
+03-06-2022 15:05:17,ERROR,While executing getResult()
+03-06-2022 15:05:23,INFO,Requested method : POST
+03-06-2022 15:05:23,INFO,form submitted, there is an active request and the method is POST
+03-06-2022 15:05:23,INFO,Values retrieved from the form
+03-06-2022 15:05:23,INFO,Threading Called !
+03-06-2022 15:05:23,INFO,Threading Created !
+03-06-2022 15:05:23,INFO,Threading Started !
+03-06-2022 15:05:23,INFO,Threading join !
+03-06-2022 15:05:23,ERROR,While executing getResult()
+03-06-2022 15:05:27,INFO,Requested method : POST
+03-06-2022 15:05:27,INFO,form submitted, there is an active request and the method is POST
+03-06-2022 15:05:27,INFO,Values retrieved from the form
+03-06-2022 15:05:27,INFO,Threading Called !
+03-06-2022 15:05:27,INFO,Threading Created !
+03-06-2022 15:05:27,INFO,Threading Started !
+03-06-2022 15:05:27,INFO,Threading join !
+03-06-2022 15:05:27,ERROR,While executing getResult()
